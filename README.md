@@ -44,6 +44,10 @@ The dataset consists of approximately 8,760 records and 14 attributes. These att
 
 - Detailed the implementation of various machine learning models and presented their results.
 
+## MODEL RESULT
+- The R-squared measure is useful for assessing the relationship between dependent and independent variables, but it doesn't address overfitting. In complex regression models, Adjusted R-squared is valuable as it considers variable relationships and penalizes unnecessary ones, reducing overfitting risks. R-squared is still reliable for understanding predictability in rented_bike_count.
+
+
 ## Conclusion
 
 This project aims to improve the supply of rental bikes for bike-sharing programs in Seoul by leveraging historical data and machine learning models. By accurately predicting demand, bike-sharing businesses can operate more efficiently and provide a better experience for their customers, ultimately benefiting both service providers and the public.
