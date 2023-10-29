@@ -1,5 +1,7 @@
 # Bike Sharing Demand Prediction
 
+![ezgif.com-gif-maker.gif](https://github.com/meabhaykr/Bike-Sharing-Demand-Prediction/blob/main/Image/ezgif.com-gif-maker.gif)
+
 ## Project Summary
 
 The objective of this project is to improve public mobility and convenience through bike-sharing programs in urban areas, with a focus on predicting the demand for bike-sharing services in Seoul. It involves data preparation, model building, and evaluation to address the practical challenge of ensuring a consistent supply of bikes for rental in metropolitan areas.
