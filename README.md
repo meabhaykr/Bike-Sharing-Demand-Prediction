@@ -47,6 +47,7 @@ The dataset consists of approximately 8,760 records and 14 attributes. These att
 ## MODEL RESULT
 - The R-squared measure is useful for assessing the relationship between dependent and independent variables, but it doesn't address overfitting. In complex regression models, Adjusted R-squared is valuable as it considers variable relationships and penalizes unnecessary ones, reducing overfitting risks. R-squared is still reliable for understanding predictability in rented_bike_count.
 
+![Results.png]()
 
 ## Conclusion
 
